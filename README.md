@@ -6,11 +6,11 @@ Interactive Power BI dashboard analyzing telecom industry performance metrics fo
 ________________________________________
 ## 📋 Contents
 
-1. [Home View](https://github.com/sherinjthomas29/AtliQO-Telecom-Domain-Power-BI-Dashboard/blob/main/Home%20View.png)
-2. [Revenue View](https://github.com/sherinjthomas29/AtliQO-Telecom-Domain-Power-BI-Dashboard/blob/main/Revenue%20View.png)
-3. [User View](https://github.com/sherinjthomas29/AtliQO-Telecom-Domain-Power-BI-Dashboard/blob/main/User%20View.png)
-4. [Plan View](https://github.com/sherinjthomas29/AtliQO-Telecom-Domain-Power-BI-Dashboard/blob/main/Plan%20View.png)
-5. [Market Share View](https://github.com/sherinjthomas29/AtliQO-Telecom-Domain-Power-BI-Dashboard/blob/main/Market%20Share%20View.png)
+1. [Home View](https://github.com/sherinjthomas29/AtliQO-Telecom-Domain-Power-BI-Dashboard/blob/main/Home%20View.png) - Executive summary with telecom infrastructure visualization
+2. [Revenue View](https://github.com/sherinjthomas29/AtliQO-Telecom-Domain-Power-BI-Dashboard/blob/main/Revenue%20View.png) - Financial performance metrics and plan analysis
+3. [User View](https://github.com/sherinjthomas29/AtliQO-Telecom-Domain-Power-BI-Dashboard/blob/main/User%20View.png) - Customer engagement and churn analysis
+4. [Plan View](https://github.com/sherinjthomas29/AtliQO-Telecom-Domain-Power-BI-Dashboard/blob/main/Plan%20View.png) - Revenue generation per plan with performance comparison
+5. [Market Share View](https://github.com/sherinjthomas29/AtliQO-Telecom-Domain-Power-BI-Dashboard/blob/main/Market%20Share%20View.png) - Competitive positioning and market dynamics
 ________________________________________
 ## 📝 Key Features
 
