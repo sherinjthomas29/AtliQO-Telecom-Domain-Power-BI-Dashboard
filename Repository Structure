@@ -1,0 +1,46 @@
+ATLIQO-Telecom-Dashboard/
+│
+├── README.md                          # Project overview and documentation
+├── LICENSE                            # MIT or Apache license
+├── .gitignore                         # Git ignore file for Power BI files
+│
+├── 📁 dashboard/
+│   ├── ATLIQO_Telecom_Dashboard.pbix  # Main Power BI file
+│   ├── dashboard_screenshots/          # Dashboard images
+│   │   ├── home_view.png
+│   │   ├── revenue_view.png
+│   │   ├── user_view.png
+│   │   ├── plan_view.png
+│   │   └── market_share_view.png
+│   └── template/
+│       └── dashboard_template.pbit     # Power BI template (optional)
+│
+├── 📁 data/
+│   ├── sample_data/                    # Sample datasets
+│   │   ├── revenue_data.csv
+│   │   ├── user_data.csv
+│   │   ├── plan_data.csv
+│   │   └── market_data.csv
+│   └── data_dictionary.md              # Data field descriptions
+│
+├── 📁 docs/
+│   ├── user_guide.md                   # How to use the dashboard
+│   ├── technical_specs.md              # Technical requirements
+│   └── presentation/
+│       ├── ATLIQO_Dashboard_PPT.pptx   # Project presentation
+│       └── presentation_content.md     # PPT content in markdown
+│
+├── 📁 resources/
+│   ├── color_palette.json              # Dashboard color scheme
+│   ├── fonts/                          # Custom fonts used
+│   └── icons/                          # Custom icons/images
+│
+├── 📁 scripts/
+│   ├── data_preparation.py             # Data cleaning scripts
+│   ├── data_transformation.R           # R scripts for analysis
+│   └── requirements.txt                # Python dependencies
+│
+└── 📁 insights/
+    ├── key_findings.md                 # Major insights summary
+    ├── recommendations.md              # Business recommendations
+    └── methodology.md                  # Analysis approach
