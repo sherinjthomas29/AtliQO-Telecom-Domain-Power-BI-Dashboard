@@ -5,8 +5,14 @@
 Interactive Power BI dashboard analyzing telecom industry performance metrics for ATLIQO, focusing on the impact of 5G implementation across multiple business dimensions including revenue, market share, user engagement, and strategic planning.
 ________________________________________
 ## 📋 Contents
+
+1. [Home View](https://github.com/sherinjthomas29/AtliQO-Telecom-Domain-Power-BI-Dashboard/blob/main/Home%20View.png)
+2. [Revenue View](https://github.com/sherinjthomas29/AtliQO-Telecom-Domain-Power-BI-Dashboard/blob/main/Revenue%20View.png)
+3. [User View](https://github.com/sherinjthomas29/AtliQO-Telecom-Domain-Power-BI-Dashboard/blob/main/User%20View.png)
+4. [Plan View](https://github.com/sherinjthomas29/AtliQO-Telecom-Domain-Power-BI-Dashboard/blob/main/Plan%20View.png)
+5. [Market Share View](https://github.com/sherinjthomas29/AtliQO-Telecom-Domain-Power-BI-Dashboard/blob/main/Market%20Share%20View.png)
 ________________________________________
-## Key Features
+## 📝 Key Features
 
 **Multi-View Analysis**: 5 comprehensive dashboards (Home, Revenue, User, Plan, Market Share)
 **5G Impact Assessment**: Before vs After 5G implementation comparison
@@ -63,3 +69,5 @@ ________________________________________
 
 ________________________________________
 ## 📈 Live Dashboard
+
+[Link](https://app.powerbi.com/view?r=eyJrIjoiOTFjN2Q3MDAtNzQyZC00NWY4LThmN2YtNTM4MGRkMGY5OGE1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
