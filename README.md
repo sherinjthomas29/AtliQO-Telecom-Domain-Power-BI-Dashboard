@@ -15,9 +15,13 @@ ________________________________________
 ## 📝 Key Features
 
 **Multi-View Analysis**: 5 comprehensive dashboards (Home, Revenue, User, Plan, Market Share)
+
 **5G Impact Assessment**: Before vs After 5G implementation comparison
+
 **Geographic Coverage**: City-wise performance analysis across major Indian metros
+
 **Time-Series Analysis**: Month-over-month performance tracking
+
 **Competitive Intelligence**: Market positioning against competitors (PIO, Britel, DADAFONE)
 ________________________________________
 ## 📈 Key Insights
