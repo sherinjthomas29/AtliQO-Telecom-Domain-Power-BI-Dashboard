@@ -14,72 +14,72 @@ ________________________________________
 ________________________________________
 ## 📝 Key Features
 
-**Multi-View Analysis**: 5 comprehensive dashboards (Home, Revenue, User, Plan, Market Share)
+ ➤ **Multi-View Analysis**: 5 comprehensive dashboards (Home, Revenue, User, Plan, Market Share)
 
-**5G Impact Assessment**: Before vs After 5G implementation comparison
+ ➤ **5G Impact Assessment**: Before vs After 5G implementation comparison
 
-**Geographic Coverage**: City-wise performance analysis across major Indian metros
+ ➤ **Geographic Coverage**: City-wise performance analysis across major Indian metros
 
-**Time-Series Analysis**: Month-over-month performance tracking
+ ➤ **Time-Series Analysis**: Month-over-month performance tracking
 
-**Competitive Intelligence**: Market positioning against competitors (PIO, Britel, DADAFONE)
+ ➤ **Competitive Intelligence**: Market positioning against competitors (PIO, Britel, DADAFONE)
 ________________________________________
 ## 📈 Key Insights
 
 **Market Performance**
 
- ➤**Market Share**: ATLIQO holds 20.24% (Before 5G) vs 18.88% (After 5G)
+ ➤ **Market Share**: ATLIQO holds 20.24% (Before 5G) vs 18.88% (After 5G)
 
- ➤**Market Leader**: PIO dominates with 35.42% market share
+ ➤ **Market Leader**: PIO dominates with 35.42% market share
 
- ➤**Competitive Position**: 3rd position among major telecom players
+ ➤ **Competitive Position**: 3rd position among major telecom players
 
 
 **Revenue Metrics**
 
-**Total Revenue**: ₹3.19K with 0.5% growth
+ ➤ **Total Revenue**: ₹3.19K with 0.5% growth
 
-**ARPU Decline**: 9.9% decrease to ₹200.74
+ ➤ **ARPU Decline**: 9.9% decrease to ₹200.74
 
-**Top Revenue Plans**: Smart Recharge Pack (₹419.93) leading revenue generation
+ ➤ **Top Revenue Plans**: Smart Recharge Pack (₹419.93) leading revenue generation
 
 
 **User Engagement**
 
-**Active Users**: 1.62K with 9.0% growth
+ ➤ **Active Users**: 1.62K with 9.0% growth
 
-**Churn Impact**: 19.0% increase in unsubscribed users (125.90)
+ ➤ **Churn Impact**: 19.0% increase in unsubscribed users (125.90)
 
-**Geographic Leaders**: Mumbai (233), Kolkata (204), Delhi (197) for active users
+ ➤ **Geographic Leaders**: Mumbai (233), Kolkata (204), Delhi (197) for active users
 
 
-## **City-wise Performance**
+**City-wise Performance**
 
-**ARPU Leaders**: Pune (+14.78%), Chennai (+2.65%) showing positive growth
+ ➤ **ARPU Leaders**: Pune (+14.78%), Chennai (+2.65%) showing positive growth
 
-**Declining Markets**: Raipur (-18.20%), Mumbai (-14.83%) facing challenges
+ ➤ **Declining Markets**: Raipur (-18.20%), Mumbai (-14.83%) facing challenges
 ________________________________________
 ## 🛠️ Tools & Methods Used
 
-**Primary Tool**: Microsoft Power BI
+ ➤ **Primary Tool**: Microsoft Power BI
 
-**Data Visualization**: Interactive charts, KPI cards, geographic analysis
+ ➤ **Data Visualization**: Interactive charts, KPI cards, geographic analysis
 
-**Analytics**: Comparative analysis, trend analysis, performance benchmarking
+ ➤ **Analytics**: Comparative analysis, trend analysis, performance benchmarking
 
-**Design**: Modern dark theme with intuitive navigation
+ ➤ **Design**: Modern dark theme with intuitive navigation
 ________________________________________
 ## 💡 Suggestions & Improvements
 
-**5G Strategy Review**: Address market share decline post-5G implementation
+ ➤ **5G Strategy Review**: Address market share decline post-5G implementation
 
-**Churn Reduction**: Focus on retention strategies in high-churn cities
+ ➤ **Churn Reduction**: Focus on retention strategies in high-churn cities
 
-**ARPU Enhancement**: Optimize pricing strategies in underperforming markets
+ ➤ **ARPU Enhancement**: Optimize pricing strategies in underperforming markets
 
-**Geographic Expansion**: Strengthen presence in tier-2 cities
+ ➤ **Geographic Expansion**: Strengthen presence in tier-2 cities
 
-**Plan Optimization**: Promote high-revenue generating plans
+ ➤ **Plan Optimization**: Promote high-revenue generating plans
 ________________________________________
 ## 📝 Conclusion
 
