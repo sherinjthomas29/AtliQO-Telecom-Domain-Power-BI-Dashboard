@@ -48,8 +48,11 @@ ________________________________________
 ## 🛠️ Tools & Methods Used
 
 **Primary Tool**: Microsoft Power BI
+
 **Data Visualization**: Interactive charts, KPI cards, geographic analysis
+
 **Analytics**: Comparative analysis, trend analysis, performance benchmarking
+
 **Design**: Modern dark theme with intuitive navigation
 ________________________________________
 ## 💡 Suggestions & Improvements
