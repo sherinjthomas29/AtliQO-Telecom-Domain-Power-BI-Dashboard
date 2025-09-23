@@ -64,9 +64,14 @@ ________________________________________
 
 This comprehensive dashboard provides strategic insights into ATLIQO's telecom operations, highlighting the need for focused retention strategies and market positioning improvements in the post-5G landscape. The analysis reveals opportunities for growth while identifying areas requiring immediate attention to maintain competitive advantage.
 ________________________________________
+## **Abbreviations**
+
+**ARPU** : Average Revenue Per User
+**MS%** : Market Share %
+________________________________________
 ## 💻 Presentation
 
-
+[Link](https://github.com/sherinjthomas29/AtliQO-Telecom-Domain-Power-BI-Dashboard/blob/main/Presentation.pdf)
 ________________________________________
 ## 📈 Live Dashboard
 
