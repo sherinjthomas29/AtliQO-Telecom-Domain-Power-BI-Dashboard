@@ -70,6 +70,7 @@ ________________________________________
 ## **Abbreviations**
 
 **ARPU** : Average Revenue Per User
+
 **MS%** : Market Share %
 ________________________________________
 ## 💻 Presentation
