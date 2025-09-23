@@ -34,6 +34,7 @@ ________________________________________
 
 **Competitive Position**: 3rd position among major telecom players
 
+
 **Revenue Metrics**
 
 **Total Revenue**: ₹3.19K with 0.5% growth
@@ -42,6 +43,7 @@ ________________________________________
 
 **Top Revenue Plans**: Smart Recharge Pack (₹419.93) leading revenue generation
 
+
 **User Engagement**
 
 **Active Users**: 1.62K with 9.0% growth
@@ -49,6 +51,7 @@ ________________________________________
 **Churn Impact**: 19.0% increase in unsubscribed users (125.90)
 
 **Geographic Leaders**: Mumbai (233), Kolkata (204), Delhi (197) for active users
+
 
 **City-wise Performance**
 
