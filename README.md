@@ -26,7 +26,7 @@ ________________________________________
 ________________________________________
 ## 📈 Key Insights
 
-1.**Market Performance**
+**Market Performance**
 
 **Market Share**: ATLIQO holds 20.24% (Before 5G) vs 18.88% (After 5G)
 
