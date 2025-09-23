@@ -26,7 +26,7 @@ ________________________________________
 ________________________________________
 ## 📈 Key Insights
 
-## **Market Performance**
+1.**Market Performance**
 
 **Market Share**: ATLIQO holds 20.24% (Before 5G) vs 18.88% (After 5G)
 
@@ -35,7 +35,7 @@ ________________________________________
 **Competitive Position**: 3rd position among major telecom players
 
 
-## **Revenue Metrics**
+**Revenue Metrics**
 
 **Total Revenue**: ₹3.19K with 0.5% growth
 
@@ -44,7 +44,7 @@ ________________________________________
 **Top Revenue Plans**: Smart Recharge Pack (₹419.93) leading revenue generation
 
 
-## **User Engagement**
+**User Engagement**
 
 **Active Users**: 1.62K with 9.0% growth
 
