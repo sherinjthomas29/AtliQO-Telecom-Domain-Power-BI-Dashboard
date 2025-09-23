@@ -25,13 +25,17 @@ ________________________________________
 **Market Performance**
 
 **Market Share**: ATLIQO holds 20.24% (Before 5G) vs 18.88% (After 5G)
+
 **Market Leader**: PIO dominates with 35.42% market share
+
 **Competitive Position**: 3rd position among major telecom players
 
 **Revenue Metrics**
 
 **Total Revenue**: ₹3.19K with 0.5% growth
+
 **ARPU Decline**: 9.9% decrease to ₹200.74
+
 **Top Revenue Plans**: Smart Recharge Pack (₹419.93) leading revenue generation
 
 **User Engagement**
@@ -45,6 +49,7 @@ ________________________________________
 **City-wise Performance**
 
 **ARPU Leaders**: Pune (+14.78%), Chennai (+2.65%) showing positive growth
+
 **Declining Markets**: Raipur (-18.20%), Mumbai (-14.83%) facing challenges
 ________________________________________
 ## 🛠️ Tools & Methods Used
@@ -60,9 +65,13 @@ ________________________________________
 ## 💡 Suggestions & Improvements
 
 **5G Strategy Review**: Address market share decline post-5G implementation
+
 **Churn Reduction**: Focus on retention strategies in high-churn cities
+
 **ARPU Enhancement**: Optimize pricing strategies in underperforming markets
+
 **Geographic Expansion**: Strengthen presence in tier-2 cities
+
 **Plan Optimization**: Promote high-revenue generating plans
 ________________________________________
 ## 📝 Conclusion
