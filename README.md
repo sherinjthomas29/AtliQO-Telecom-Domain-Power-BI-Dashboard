@@ -28,11 +28,11 @@ ________________________________________
 
 **Market Performance**
 
-**Market Share**: ATLIQO holds 20.24% (Before 5G) vs 18.88% (After 5G)
+ ➤**Market Share**: ATLIQO holds 20.24% (Before 5G) vs 18.88% (After 5G)
 
-**Market Leader**: PIO dominates with 35.42% market share
+ ➤**Market Leader**: PIO dominates with 35.42% market share
 
-**Competitive Position**: 3rd position among major telecom players
+ ➤**Competitive Position**: 3rd position among major telecom players
 
 
 **Revenue Metrics**
