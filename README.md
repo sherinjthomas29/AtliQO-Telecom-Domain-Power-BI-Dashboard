@@ -37,7 +37,9 @@ ________________________________________
 **User Engagement**
 
 **Active Users**: 1.62K with 9.0% growth
+
 **Churn Impact**: 19.0% increase in unsubscribed users (125.90)
+
 **Geographic Leaders**: Mumbai (233), Kolkata (204), Delhi (197) for active users
 
 **City-wise Performance**
