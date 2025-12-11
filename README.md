@@ -1,7 +1,7 @@
 # AtliQO Telecom Analysis 
 
-💻 [Presentation](https://github.com/sherinjthomas29/AtliQO-Telecom-Domain-Power-BI-Dashboard/blob/main/Presentation.pdf)     |
-📈 [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjMyNDY2OWMtM2Y4My00ZmI2LWE1YmMtYjE3Y2UxYTI3NmE0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+💻 [Report](https://github.com/sherinjthomas29/AtliQO-Telecom-Domain-Power-BI-Dashboard/blob/main/Presentation.pdf)     |
+📈 [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjMyNDY2OWMtM2Y4My00ZmI2LWE1YmMtYjE3Y2UxYTI3NmE0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  | [Presentation](https://youtu.be/cUPbC9GFR8w)
 
 ## 📊 Project Overview
 
